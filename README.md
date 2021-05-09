@@ -34,3 +34,7 @@ cd PySide-1.2.4
 sudo python2 setup.py install (It takes about two hours)
 
 cd ..
+
+Then, download LVDOWin:
+
+git clone https://github.com/Skylion007/LVDOWin.git
