@@ -49,3 +49,6 @@ Copy the Include folder on the LVDOWin folder.
 
 cd LVDOWin/src
 
+make
+
+cd ..
