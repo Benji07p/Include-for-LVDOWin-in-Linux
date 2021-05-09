@@ -41,4 +41,6 @@ git clone https://github.com/Skylion007/LVDOWin.git
 
 Then, download this repositories:
 
+git clone https://github.com/Benji07p/Include-for-LVDOWin-in-Linux.git
 
+cd LVDOWin
