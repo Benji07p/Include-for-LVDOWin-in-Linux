@@ -31,6 +31,6 @@ Unzip PySide-1.2.4.tar.gz.
 
 cd PySide-1.2.4
 
-sudo python2 setup.py install
+sudo python2 setup.py install (It takes about two hours)
 
 cd ..
