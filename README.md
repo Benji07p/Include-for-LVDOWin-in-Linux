@@ -39,8 +39,13 @@ Then, download LVDOWin:
 
 git clone https://github.com/Skylion007/LVDOWin.git
 
+Delete the Include folder.
+
 Then, download this repositories:
 
 git clone https://github.com/Benji07p/Include-for-LVDOWin-in-Linux.git
 
-cd LVDOWin
+Copy the Include folder on the LVDOWin folder.
+
+cd LVDOWin/src
+
