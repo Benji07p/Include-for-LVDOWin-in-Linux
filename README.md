@@ -30,3 +30,7 @@ It must be installed manually:
 Unzip PySide-1.2.4.tar.gz.
 
 cd PySide-1.2.4
+
+sudo python2 setup.py install
+
+cd ..
