@@ -37,4 +37,10 @@ https://files.pythonhosted.org/packages/36/ac/ca31db6f2225844d37a41b10615c3d3715
 pip install PySide does not work with Python3.
 
 
-It must be installed manually
+It must be installed manually:
+
+
+Unzip PySide-1.2.4.tar.gz.
+
+
+cd PySide-1.2.4
