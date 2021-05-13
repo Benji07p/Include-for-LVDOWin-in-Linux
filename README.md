@@ -45,6 +45,8 @@ Then, download this repositories:
 
 git clone https://github.com/Benji07p/Include-for-LVDOWin-in-Linux.git
 
+Unzip Include.zip
+
 Copy the Include folder on the LVDOWin folder.
 
 cd LVDOWin/src
